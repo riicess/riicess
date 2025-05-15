@@ -92,22 +92,6 @@ I am proficient in **Lua** for a variety of applications, including system archi
 
 ---
 
-### 🌃 GitHub Skyline
-
-<p align="center">
-  <!-- Replace the YOUR_SKYLINE_IMAGE_URL with the link to your generated Skyline image -->
-  <!-- Go to https://skyline.github.com/riicess/ (replace riicess with your username if different) -->
-  <!-- Choose a year, and then find the "Share" option which gives you an image link -->
-  <a href="https://skyline.github.com/riicess/" target="_blank">
-    <img src="YOUR_SKYLINE_IMAGE_URL_HERE" alt="My GitHub Skyline" width="80%"/>
-    <!-- Example: <img src="https://skyline.github.com/riicess/2023.png?theme=dark" alt="My GitHub Skyline 2023" width="80%"/> -->
-  </a>
-  <br/>
-  <small>My contribution graph in 3D! Click to see the interactive version.</small>
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
