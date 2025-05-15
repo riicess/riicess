@@ -94,5 +94,5 @@ I'm currently available for freelance projects and collaborations involving Lua,
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto§ion=footer&text=Thanks%20for%20visiting!&fontSize=30&animation=twinkling&fontAlignY=45&fontColor=FFFFFF&v=footer_cv1" alt="Thanks for visiting!"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=150§ion=footer&text=Thanks%20for%20visiting!&fontSize=30&animation=twinkling&fontAlignY=45&fontColor=FFFFFF&v=footerRandomWithHeight1" alt="Thanks for visiting!"/>
 </p>
