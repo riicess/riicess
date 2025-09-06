@@ -10,7 +10,7 @@
 
 <div align="center">
 
-Hi there! I'm **riicess**. I'm a developer with a diverse background in **Lua scripting**, **web development (HTML, CSS, JavaScript)**, and general programming. I'm passionate about designing and building impactful systems and user-friendly interfaces through code. My experience includes creating scripts for environments like Roblox.
+Hi there! I'm **riicess**. I'm a developer with a diverse background in **Lua scripting**, **web development (HTML, CSS, JavaScript)**. I'm passionate about designing and building impactful systems and user-friendly interfaces through code. My experience includes creating scripts for environments like Roblox.
 
 Currently freelancing, I'm always open to new challenges, collaborations, and exciting projects involving Lua, C++, web development, and various scripting tasks.
 
