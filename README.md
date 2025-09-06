@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=320§ion=header&text=Hey%20I%27m%20riicess%20(EREN)&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Lua%20-%20C%2B%2B%20-%20Web%20Developer%0APassionate%20about%20impactful%20code&descSize=20&descAlignY=73,90&descAlign=50&fontColor=FFFFFF&v=headerRandomColor1" alt="Hey, I'm riices - Lua & Web Developer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=320§ion=header&text=Hey%20I%27m%20riicess%20&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Lua%20-%20C%2B%2B%20-%20Web%20Developer%0APassionate%20about%20impactful%20code&descSize=20&descAlignY=73,90&descAlign=50&fontColor=FFFFFF&v=headerRandomColor1" alt="Hey, I'm riices - Lua & Web Developer"/>
 </p>
 
 <div align="center">
