@@ -1,23 +1,31 @@
-<div align="center">
-Hello!
-</div>
-
----
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=riicess&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  </a>
+<p align="right">
+  <img
+    src="https://komarev.com/ghpvc/?username=riicess&label=Profile%20Views&color=9C27B0&style=flat-square"
+    alt="Profile Views"
+  />
 </p>
-
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riicess&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="riicess's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riicess&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img
+    height="150"
+    src="https://github-readme-stats.vercel.app/api?username=riicess&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=en&bg_color=0D1117&title_color=9C27B0&text_color=C9D1D9&icon_color=BB86FC"
+    alt="GitHub Stats"
+  />
+  <img
+    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riicess&layout=compact&langs_count=6&hide_border=true&locale=en&bg_color=0D1117&title_color=9C27B0&text_color=C9D1D9"
+    alt="Top Languages"
+  />
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=riicess&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</div>
+<p align="center">
+  <img
+    height="150"
+    src="https://streak-stats.demolab.com?user=riicess&theme=radical&hide_border=true&background=0D1117&ring=9C27B0&fire=BB86FC&currStreakLabel=BB86FC&sideNums=C9D1D9&sideLabels=9C27B0&dates=C9D1D9"
+    alt="GitHub Streak"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=riicess&theme=radical&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true&title=Commits,Experience,Stars,Followers"
+    alt="GitHub Trophies"
+  />
+</p>
