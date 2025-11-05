@@ -2,7 +2,7 @@
   <a href="https://komarev.com/ghpvc/?username=riicess">
     <img align="right" src="https://komarev.com/ghpvc/?username=riicess&label=Profile%20Views&color=9C27B0&style=flat-square"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=9gt5oje1fojaytxloo7rv401y&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=9gt5oje1fojaytxloo7rv401y&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=9c27b0&bar_color_cover=false&mode=dark" width="400">
   </a>
@@ -21,11 +21,4 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=riicess&theme=radical&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true&title=Commits,Experience,Stars,Followers"/>
-</p>
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riicess/riicess/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riicess/riicess/output/snake.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/riicess/riicess/output/snake.svg">
-</picture>
 </p>
