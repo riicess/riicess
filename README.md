@@ -29,4 +29,5 @@
     alt="GitHub Trophies"
   />
 </p>
-![Snake](https://github.com/riicess/riicess/blob/output/snake.svg)
+![snake](https://raw.githubusercontent.com/riicess/riicess/output/snake.svg
+)
