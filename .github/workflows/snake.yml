@@ -5,11 +5,12 @@ on:
   workflow_dispatch:
 jobs:
   build:
-    name: Jobs to update datas
+    name: update snake
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@master
-        id: snake-gifwith:
+        id: snake-gif
+        with:
           github_user_name: riicess
           svg_out_path: dist/snake.svg
       - uses: crazy-max/ghaction-github-pages@v2.1.3
